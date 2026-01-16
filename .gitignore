@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!To_Appimage.sh
+!src/
+!src/**
